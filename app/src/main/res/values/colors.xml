@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="samsung_calculator_background">#799900</color>
+    <color name="samsung_calendar_background">#008375</color>
+    <color name="samsung_camera_background">#EF1346</color>
+    <color name="samsung_translate_background">#28C7DA</color>
+    <color name="samsung_browser_background">#7882FF</color>
+    <color name="samsung_contacts_background">#E67828</color>
+    <color name="samsung_dialer_background">#32965A</color>
+    <color name="samsung_files_background">#E6A032</color>
+    <color name="samsung_gallery_background">#C10040</color>
+    <color name="samsung_keyboard_background">#777C8F</color>
+    <color name="samsung_mail_background">#E43C35</color>
+    <color name="samsung_members_background">#0DB7E4</color>
+    <color name="samsung_messages_background">#0096D2</color>
+    <color name="samsung_music_background">#549FFF</color>
+    <color name="samsung_notes_background">#E95B30</color>
+    <color name="samsung_optical_reader_background">#848FDC</color>
+    <color name="samsung_radio_background">#744DB2</color>
+    <color name="samsung_settings_background">#86837D</color>
+    <color name="samsung_s_note_background">#F46A4E</color>
+    <color name="samsung_sound_recorder_background">#E83D43</color>
+    <color name="samsung_video_library_background">#744DB2</color>
+    <color name="samsung_videos_background">#7751AF</color>
+    <color name="ic_launcher_icon_pack_background">#7982FF</color>
+</resources>

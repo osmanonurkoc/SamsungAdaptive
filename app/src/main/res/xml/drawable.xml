@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <category title="Samsung" />
+    <item drawable="samsung_apps" />
+    <item drawable="samsung_browser" />
+    <item drawable="samsung_calculator" />
+    <item drawable="samsung_calendar" />
+    <item drawable="samsung_camera" />
+    <item drawable="samsung_clock" />
+    <item drawable="samsung_contacts" />
+    <item drawable="samsung_dialer" />
+    <item drawable="samsung_files" />
+    <item drawable="samsung_gallery" />
+    <item drawable="samsung_health" />
+    <item drawable="samsung_keyboard" />
+    <item drawable="samsung_mail" />
+    <item drawable="samsung_members" />
+    <item drawable="samsung_messages" />
+    <item drawable="samsung_music" />
+    <item drawable="samsung_notes" />
+    <item drawable="samsung_optical_reader" />
+    <item drawable="samsung_radio" />
+    <item drawable="samsung_settings" />
+    <item drawable="samsung_s_note" />
+    <item drawable="samsung_sound_recorder" />
+    <item drawable="samsung_themes" />
+    <item drawable="samsung_translate" />
+    <item drawable="samsung_video_library" />
+    <item drawable="samsung_videos" />
+</resources>
